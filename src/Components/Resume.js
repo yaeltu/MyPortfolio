@@ -28,7 +28,7 @@ export default class Resume extends Component{
                     <p>+972(0)547598300</p>
                     <h5>Email</h5>
                     <p>yael159753@gmail.com</p>
-                    <h5><a href = "https://vigorous-curie-8fa126.netlify.com/">Personal Website</a></h5>
+                    <h5><a href = "https://yaeltuvia.netlify.com/">Personal Website</a></h5>
                     <hr style ={{borderTop: "3px solid #833fb2", width: "50%"}}/>
                     <a href = {resumeFile} download>
                         Click to download my full resume</a>
